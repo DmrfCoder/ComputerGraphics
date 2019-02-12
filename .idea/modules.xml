@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BresehamCircle/BresehamCircle.iml" filepath="$PROJECT_DIR$/BresehamCircle/BresehamCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BresenhamLine/BresenhamLine.iml" filepath="$PROJECT_DIR$/BresenhamLine/BresenhamLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChohenSutherlandCutLine/ChohenSutherlandCutLine.iml" filepath="$PROJECT_DIR$/ChohenSutherlandCutLine/ChohenSutherlandCutLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputerGraphics.iml" filepath="$PROJECT_DIR$/ComputerGraphics.iml" />
+    </modules>
+  </component>
+</project>
